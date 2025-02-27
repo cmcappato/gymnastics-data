@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-135344414-1"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+
+		  gtag('config', 'UA-135344414-1');
+		</script>
+		
+		<title>Page Not Found</title>
+		<meta name="description" content="Gymnastics Results"> 
+		<meta name="keywords" content="gymnastics, results, gymnastics results, gymnast, scores, meet results, meet scores, artistic gymnastics, rhythmic gymnastics, trampoline, trampoline gymnastics, aerobics, aerobics gymnastics, gymnastika, gimnastika, gymnastique, turnen, taiso, ginnastica, gymnastik"> 
+		<meta name="verify-v1" content="hHZw/a/I7P3zKhVr5y9WTvp1WhA1WWbsiaeMVlyNZtE=">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" type="text/css" href="/assets/css/main.css">
+		<script src="/assets/js/navigation.js"></script>
+		<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+	</head>
+	<body>
+		<header>
+			<a href="/" id="site-logo">GymnasticsResults.com</a>
+			<a href="/" id="home">Home</a>
+			<nav role="navigation">
+				<button id="toggle" aria-expanded="false">
+					Menu
+					<img src="/assets/images/icons/bars.svg" id="menu-open">
+					<img src="/assets/images/icons/times.svg" id="menu-close">
+				</button>
+					<ul id="menu">
+						<li><a href='/results/2024/olympics/qualification/'>Paris 2024 Qualification</a></li>
+						<li><a href="/archive/">Archive</a></li>
+						<li><a href='/about'>About</a></li>
+					</ul>
+				</nav>
+		</header>
+		<main class="content">
+		<a name="top"></a>
+		<div class="rounded" style="text-align: center;">
+  <h1>Error 404</h1>
+  <img src="/assets/images/pcmaniak.gif">
+  <p>Page not found.</p>
+  <a href="/">Go to Home Page</a>
+</div> 
+
+<div class="rounded">
+	<h2>Notice:</h2>
+	<p>This site is being transitioned over to a new format that will make it easier to update and sort results, and easier to use on mobile devices. Because of this, not all content has been moved over yet. To see an archive of all old results, go <a href="/archive/">to the archive</a>. Thank you for your understanding while this work is completed. If you cannot find a result, please <a href="mailto:gymres@gmail.com">email me</a>.</p>
+</div>
+		</main>
+
+		<!--Footer-->
+		<footer>
+			<a class='home-link' href='/'><img src="/assets/images/home.gif" width="210" height="15" border=0 alt="Artistic Gymnastics Results online"></a>
+			<a href="#top"><img src="/assets/images/totop.gif" width=100 height=15 border=0></a>
+			<a href="mailto:gymres@gmail.com?subject=GymnasticsResults.com"><img src="/assets/images/emailme.gif" width=80 height=15 border=0></a>
+
+			<!-- Statcounter -->
+			<script type="text/javascript">
+			var sc_project=1005036; 
+			var sc_invisible=0; 
+			var sc_security="34457bda"; 
+			var scJsHost = (("https:" == document.location.protocol) ?
+			"https://secure." : "http://www.");
+			document.write("<sc"+"ript type='text/javascript' src='" +
+			scJsHost+
+			"statcounter.com/counter/counter.js'></"+"script>");
+			</script>
+			<noscript><div class="statcounter"><a title="Web Analytics"
+			href="http://statcounter.com/" target="_blank"><img
+			class="statcounter"
+			src="//c.statcounter.com/1005036/0/34457bda/0/" alt="Web
+			Analytics"></a></div></noscript>
+			<!-- End of Statcounter Code -->
+		</footer>
+
+	</body>
+</html>
