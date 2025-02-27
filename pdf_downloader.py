@@ -4,10 +4,10 @@ from bs4 import BeautifulSoup  # Para analizar el contenido HTML de la página
 import os  # Para manejar directorios y archivos
 
 # URL de la página donde se encuentran los archivos PDF
-base_url = ""
+base_url = "https://gymnasticsresults.com/results/2017/turnier-der-meister/"
 
 # Carpeta donde se guardarán los archivos descargados
-output_folder = ""
+output_folder = "gymnastics-data/2017/TURNIER_DER_MEISTER"
 os.makedirs(output_folder, exist_ok=True)  # Crea la carpeta si no existe
 
 # Encabezado HTTP para evitar bloqueos por parte del servidor
